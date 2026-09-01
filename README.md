@@ -5,4 +5,4 @@ Integrantes:
             Encina Leonel
             Limer Bautista
             Verniano Tomas
-            Velazques Dyla
+            Velazques 
